@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p align="center";display="flex">
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,githubactions,jenkins,terraform,ansible,docker,kubernetes,prometheus,grafana,elasticsearch,python,vscode"/>
 <img src="images/sonarQube1.png" height=50px width=50px />
