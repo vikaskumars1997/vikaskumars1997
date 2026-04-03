@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="center" display="block">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,githubactions,jenkins,terraform,ansible,docker,kubernetes,prometheus,grafana,elasticsearch,python,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,linux"/>
 <img src="images/sonarQube1.png" height=50px width=50px />
 <img src="images/elasticSearch.png" height=50px width=50px />
 <img src="images/logstash.png" height=50px width=50px/>
