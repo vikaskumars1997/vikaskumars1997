@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 
-<p align="center" display="block">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux"/>
-<img src="images/sonarQube1.png" height=50px width=50px />
-<img src="images/elasticSearch.png" height=50px width=50px />
-<img src="images/logstash.png" height=50px width=50px/>
-<img src="images/kibana.png" height=50px width=50px/>
+<img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,githubactions,jenkins,terraform,ansible,docker,kubernetes,prometheus,grafana,elasticsearch,python,vscode"/>
+<img src="images/sonarQube1.png" height=50px width=50px align="left" />
+<img src="images/elasticSearch.png" height=50px width=50px align="left" />
+<img src="images/logstash.png" height=50px width=50px align="left" />
+<img src="images/kibana.png" height=50px width=50px align="left" />
 <!-- <img src="images/sonarQuality.png" height=50px width=50px /> -->
 
 </p>
