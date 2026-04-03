@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,githubactions,jenkins,terraform,ansible,docker,kubernetes,prometheus,grafana,elasticsearch,python"/>
 <img src="images/sonarQube1.png" height=50px width=50px />
-<img src="images/elasticSearch.png" height=50px width=50px />
-<img src="images/kibana.png" height=50px width=50px/>
+<img src="images/elasticSearch.png" height=50px width=50px style="align:left"/>
 <img src="images/logstash.png" height=50px width=50px/>
+<img src="images/kibana.png" height=50px width=50px/>
 <!-- <img src="images/sonarQuality.png" height=50px width=50px /> -->
 
 </p>
