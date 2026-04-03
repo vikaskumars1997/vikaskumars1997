@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <!-- <img src="images/sonarQuality.png" height=50px width=50px /> -->
 
 </p>
+
 <p aligh="left">
  
 <img src="images/sonarQube1.png" height=50px width=50px/>
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 <img src="images/kibana.png" height=50px width=50px />
 
 </p>
+
 ---
 
 ## 📊 GitHub Stats
