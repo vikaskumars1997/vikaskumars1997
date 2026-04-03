@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,githubactions,jenkins,terraform,ansible,docker,kubernetes,prometheus,grafana,elasticsearch,logstash,kibana,python,vscode"/>
+<img src="images/elasticSearch.png" />
 <img src="images/kibana.png" />
 <img src="images/logstash.png" />
 <img src="images/sonarQuality.png" />
