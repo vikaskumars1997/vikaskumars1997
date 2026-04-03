@@ -58,18 +58,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikaskumars1997&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikaskumars1997&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 👀 Visitor Count
 
 <p align="center">
