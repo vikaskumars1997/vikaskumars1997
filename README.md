@@ -135,13 +135,36 @@ project/
 ---
 ## 👍 Project Result
 
+- GitHub Actions Jobs
+
 [![.github/workflows/dockerAuto.yml](https://github.com/appDeploymentFlow/DemoMainAppFlowFirs/actions/workflows/dockerAuto.yml/badge.svg)](https://github.com/appDeploymentFlow/DemoMainAppFlowFirs/actions/workflows/dockerAuto.yml)
+
+- Job Badge
+
 <img src="images/jobsStatus.png" />
+
+- Instances
+
 <img src="images/instances.png" />
+
+- Runner
+
 <img src="images/runner.png" />
+
+- Containers/Pods
+
 <img src="images/containers.png" />
+
+- SonarQube Server
+
 <img src="images/sonarqube.png" />
+
+- Quality Check
+
 <img src="images/sonarQuality.png" />
+
+- Web Application
+
 <img src="images/webAppView.png" />
 
 ---
