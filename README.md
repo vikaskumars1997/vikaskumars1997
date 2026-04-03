@@ -46,12 +46,14 @@ Here are some ideas to get you started:
 <!-- <img src="images/sonarQuality.png" height=50px width=50px /> -->
 
 </p>
-<p>
+<p aligh="left">
+ 
 <img src="images/sonarQube1.png" height=50px width=50px align="left" />
 <img src="images/elasticSearch.png" height=50px width=50px align="left" />
 <img src="images/logstash.png" height=50px width=50px align="left" />
 <img src="images/kibana.png" height=50px width=50px align="left" />
- </p>
+
+</p>
 ---
 
 ## 📊 GitHub Stats
